@@ -1,7 +1,7 @@
 {
   "private": true,
   "author": "xuqianjin <xuqianjin@xunlei.com>",
-  "homepage": "https://xuqianjin.github.io/jason-good-luck",
+  "homepage": "./",
   "scripts": {
     "dev": "umi dev",
     "build": "umi build",
